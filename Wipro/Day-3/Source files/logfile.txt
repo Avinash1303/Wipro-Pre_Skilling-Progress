@@ -1,0 +1,4 @@
+2025-12-15 10:00 INFO Server started
+2025-12-15 10:05 ERROR Disk failure
+2025-12-15 10:10 ERROR Memory leak
+
