@@ -1,0 +1,33 @@
+Introduction of Scripting
+Scripting is the process of writing small programs called scripts that are used to automate tasks, control software, and perform repetitive operations efficiently.
+
+Scripts are usually interpreted, meaning they are executed line by line without the need for compilation.
+ 
+
+Difference Between Scripting and Programming
+1️⃣ Definition
+
+Scripting: Writing small, interpreted programs to automate tasks or control existing software.
+Programming: Writing full-scale software applications with structured design and logic
+ 
+
+What is a Script?
+A script is usually:
+Interpreted (not compiled)
+Short and task-focused
+Executed by another program (like a browser, OS, or server)
+Example:
+Renaming 1,000 files automatically
+Validating form data on a website
+Automating database backups
+Running data preprocessing steps
+ 
+
+ 
+Scripting Languages	Programming Languages
+Python	                      C
+JavaScript	              C++
+Bash	                      Java
+PHP	                      Rust
+PowerShell	              Go
+ 

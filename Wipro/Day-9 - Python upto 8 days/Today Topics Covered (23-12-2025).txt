@@ -1,0 +1,38 @@
+Today Topics Covered (23-12-2025)
+
+Introduction to Scripting
+What is scripting?
+Differences between scripting and programming
+History and Features of Python
+Evolution of Python
+Unique features of Python
+Python Pre-requisites
+Required software and hardware
+Basic programming knowledge
+Environment Setup for Python
+Installing Python
+Setting up IDE
+Python Basic Datatypes
+Understanding integers, floats, strings, and booleans
+Type conversion
+Python Variables, Keywords, Comments
+Declaring and using variables
+Understanding Python keywords
+Adding comments in Python
+Python Operators, Casting
+Arithmetic, comparison, logical, and bitwise operators
+Type casting in Python
+Data Types Overview
+Brief overview of Python data types
+Python I/O Expressions
+Inputting Statements
+Using the input() function
+Reading inputs of different datatypes
+Formatting the Output
+Using the print() function
+String formatting methods
+
+
+Day 1: Python Language Fundamentals
+Task 1: Write a Python script to display "Hello, Python!" and also demonstrate the use of comments.
+Task 2: Create a Python program that uses different variable types (integer, float, string, boolean) and prints their types.
