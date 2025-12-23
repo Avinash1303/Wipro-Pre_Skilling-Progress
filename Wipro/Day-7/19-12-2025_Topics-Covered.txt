@@ -1,0 +1,58 @@
+ 
+Performance Tuning and Optimization
+Indexing Strategies and Types
+Query Performance Analysis
+Execution Plans and Optimizer Hints
+Security and SQL Best Practices
+Avoiding SQL Injection Vulnerabilities
+Secure SQL Coding Practices
+Database Encryption and Data Masking
+ 
+ 
+ 
+Normal Forms and Normalization Process
+ 
+ 
+ 
+Data Integrity and Transactions
+ACID Properties
+Locking and Concurrency Control
+Isolation Levels
+ 
+ 
+ 
+Overview of Software Testing
+Definition and importance of software testing in the SDLC
+Goals and principles of software testing
+Levels of Software Testing
+Introduction to Unit Testing, Integration Testing, System Testing, and Acceptance Testing
+Understanding the objectives, target, and environment of each level
+ 
+ 
+ 
+Test Planning
+Creating test strategies and test plans
+Resource and environment planning
+Test Design
+Writing test cases and test scripts
+Designing tests based on requirements and specifications
+Test Execution
+Executing test cases and recording results
+ 
+ 
+ 
+Creating Projects
+Creating and configuring project types (Scrum, Kanban, etc.)
+Managing project categories and versions
+ 
+ 
+ 
+Introduction to JIRA
+Introduction to Jira
+Understanding what Jira is and its role in project management and issue tracking
+Navigating the Jira interface and its core features
+Project Configuration
+Setting up a project in Jira, customizing project settings
+Understanding project roles and permissions
+ 
+ 
